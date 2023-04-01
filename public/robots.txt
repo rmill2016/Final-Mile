@@ -1,0 +1,11 @@
+# User Agent
+User-agent: *
+
+#Disallow
+Disallow:
+
+# Host
+Host: https://finalmilespanish.com/
+
+# Sitemaps
+Sitemap: https://finalmilespanish.com/sitemap.xml
